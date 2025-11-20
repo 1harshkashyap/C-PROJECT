@@ -139,12 +139,9 @@ void searchRocordById() {
 		finish_with_error(conn);
 
 	MYSQL_RES *result = mysql_store_result(conn);
-
 	if (result == NULL)
 		finish_with_error(conn);
-
 	int num_fields = mysql_num_fields(result);
-
 	MYSQL_ROW row;
 	printf("\n                                                     Information of All Clients \n");
 	printf("___________________________________________________________________________________________________________________________________________\n");
@@ -642,4 +639,3 @@ void finish_with_error(MYSQL *con)
   fprintf(stderr, "Error : %s [%d]\n", mysql_error(con), mysql_errno(con));
   mysql_close(con);
 }
-
