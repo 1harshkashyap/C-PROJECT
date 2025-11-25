@@ -1,0 +1,20 @@
+Ticket: TKT374301
+Vehicle: MH163200HX
+Type: car
+Slot: 1
+VIP: 1
+Entry: 2025-11-25 19:42:52
+Exit: 2025-11-25 19:42:52
+Time: 93.00 sec
+Bill: 55.80
+
+Ticket: TKT642902
+Vehicle: MH136478HX
+Type: truck
+Slot: 2
+VIP: 0
+Entry: 2025-11-25 19:43:21
+Exit: 2025-11-25 19:43:21
+Time: 78.00 sec
+Bill: 39.00
+
