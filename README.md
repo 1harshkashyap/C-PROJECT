@@ -185,12 +185,20 @@ rate doubled if VIP
 ## 👨‍💻 Author
 
 **Harsh Kashyap**
+<<<<<<< HEAD
 
 * SAP ID: **590022724**
 * Course: B.Tech CSE
 * **Batch: 36**
 * Institution: UPES Dehradun
 * Academic Year: 2025–2026
+=======
+- SAP ID: 590022724
+- Course: B.Tech CSE
+- Batch: 36
+- Institution: UPES Dehradun
+- Academic Year: 2025-2026
+>>>>>>> 4aa7135832b100500834ae636177d993b50c6b14
 
 ## 📄 License
 
